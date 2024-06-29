@@ -7,13 +7,19 @@ Im Motor gibt es zwei Temperaturgeber und einen Füllstandsgeber:
 2. Temperaturgeber Kühlmittelanzeige
 3. Füllstandsgaber Kühlmittelanzeige
 
-Position [1] (blau-weisses Kabel) und [2] (rot-gelbes Kabel):
+Motorüberblick: Temperaturgeber 1 & 2 in Bereich A (blau), Füllstandsgaber in Bereich B (grün):<br>
+(Siehe jeweils unten unten Detail-Bild A" und Detail-Bild B")
+![](./images/IMG_20240629_115844~5.jpg)
+
+Details-Bild A: Position [1] (blau-weisses Kabel) und [2] (rot-gelbes Kabel):
 
 ![](./images/IMG_20240629_115939~2.jpg)
 
-Position [3] (Stecker oben auf Ausgleichsbehälter):
+Details-Bild B: Position [3] (Stecker oben auf Ausgleichsbehälter):
 
 ![](./images/IMG_20240629_115844~3.jpg)
+
+
 
 Komponenten-Test
 ================
